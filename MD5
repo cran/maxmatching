@@ -1,0 +1,7 @@
+79696e85f5f5e783367aec8578978a2f *DESCRIPTION
+bc5defa964773adef1f209da82c391e7 *NAMESPACE
+50b79b617c23d1a663a530c6aa92e41b *R/blossom.R
+7194e3c1ee31f4ca028e430d98be2b21 *R/maxmatching.R
+c3daa02639edb5c5ad3432644cf96509 *R/tests/tests.R
+cbc1fcf2c724c8963aadb06c50a42e0b *man/blossom.Rd
+dab65b8b4e0f2f6a6ca612b953a379f2 *man/maxmatching.Rd
